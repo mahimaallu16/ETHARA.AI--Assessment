@@ -106,5 +106,3 @@ taskfy/
 - The `vercel.json` ensures proper SPA routing.
 - Set `VITE_API_URL` in Vercel settings to point to your Railway API endpoint.
 
----
-Built with ❤️ by the TaskMind AI Engineering Team.
